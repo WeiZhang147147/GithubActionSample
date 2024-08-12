@@ -233,4 +233,4 @@ def weather_report(this_city):
 
 
 if __name__ == '__main__':
-    weather_report("东港")
+    weather_report("日照")
