@@ -173,10 +173,10 @@ sentences = [
 
 def get_daily_love():
     # 每日一句
-# 随机选择一个语句
-sentence = random.choice(sentences)
-    daily_love = sentence
-    return daily_love
+  # 随机选择一个语句
+  sentence = random.choice(sentences)
+  daily_love = sentence
+  return daily_love
 
 
 
